@@ -1,1 +1,0 @@
-salut c'est une lib pour communiquer avec l'api de votre panel pterodactyl
