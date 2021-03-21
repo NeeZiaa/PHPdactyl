@@ -11,6 +11,5 @@
     "require": {
         "php": ">=7.4",
         "another-vendor/package": "1.*",
-        "curl": ">=7.55.1"
     }
 }
