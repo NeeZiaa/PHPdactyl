@@ -1,6 +1,6 @@
 {
-    "name": "vendor/PHPdactyl",
-    "description": "A librairie for use pterodactyl api",
+    "name": "neeziaa/phpdactyl",
+    "description": "A simple librairie for use pterodactyl api",
     "require": {
         "php": ">=7.4",
         "another-vendor/package": "1.*"
