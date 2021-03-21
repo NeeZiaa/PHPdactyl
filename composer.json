@@ -1,0 +1,14 @@
+{
+    "name": "neeziaa/phpdactyl",
+    "description": "A simple librairie for use pterodactyl api",
+        "authors": [
+        {
+            "name": "NeeZiaa",
+            "email": "neeziaa.ytb@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
