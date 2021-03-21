@@ -1,0 +1,8 @@
+{
+    "name": "vendor/PHPdactyl",
+    "description": "A librairie for use pterodactyl api",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
